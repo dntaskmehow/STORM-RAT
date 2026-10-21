@@ -1,6 +1,16 @@
 <div align="center">
 
-# STORM-RAT
+```
+                                        
+ .::::::.::::::::::::   ...    :::::::..   .        :       :::::::..    :::. ::::::::::::
+;;;`    `;;;;;;;;''''.;;;;;;;. ;;;;``;;;;  ;;,.    ;;;      ;;;;``;;;;   ;;`;;;;;;;;;;''''
+'[==/[[[[,    [[    ,[[     \[[,[[[,/[[['  [[[[, ,[[[[,      [[[,/[[['  ,[[ '[[,   [[     
+  '''    $    $$    $$$,     $$$$$$$$$c    $$$$$$$$"$$$      $$$$$$c   c$$$cc$$$c  $$     
+ 88b    dP    88,   "888,_ _,88P888b "88bo,888 Y88" 888o     888b "88bo,888   888, 88,    
+  "YMmMY"     MMM     "YMMMMMP" MMMM   "W" MMM  M'  "MMM     MMMM   "W" YMM   ""`  MMM    
+
+```
+                                    
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=WEAPONIZED+MALWARE+SUITE;GO+%7C+RUST+%7C+JAVASCRIPT" alt="STORM-RAT banner" />
 
