@@ -1,14 +1,17 @@
 <div align="center">
 
-```
-                                        
- .::::::.::::::::::::   ...    :::::::..   .        :       :::::::..    :::. ::::::::::::
-;;;`    `;;;;;;;;''''.;;;;;;;. ;;;;``;;;;  ;;,.    ;;;      ;;;;``;;;;   ;;`;;;;;;;;;;''''
-'[==/[[[[,    [[    ,[[     \[[,[[[,/[[['  [[[[, ,[[[[,      [[[,/[[['  ,[[ '[[,   [[     
-  '''    $    $$    $$$,     $$$$$$$$$c    $$$$$$$$"$$$      $$$$$$c   c$$$cc$$$c  $$     
- 88b    dP    88,   "888,_ _,88P888b "88bo,888 Y88" 888o     888b "88bo,888   888, 88,    
-  "YMmMY"     MMM     "YMMMMMP" MMMM   "W" MMM  M'  "MMM     MMMM   "W" YMM   ""`  MMM    
-
+```                                                                                         
+  ____ __________   ____   ________   ___       ___      ________          _   __________ 
+ 6MMMMbMMMMMMMMMM  6MMMMb  `MMMMMMMb. `MMb     dMM'      `MMMMMMMb.       dM.  MMMMMMMMMM 
+6M'    /   MM   \ 8P    Y8  MM    `Mb  MMM.   ,PMM        MM    `Mb      ,MMb  /   MM   \ 
+MM         MM    6M      Mb MM     MM  M`Mb   d'MM        MM     MM      d'YM.     MM     
+YM.        MM    MM      MM MM     MM  M YM. ,P MM        MM     MM     ,P `Mb     MM     
+ YMMMMb    MM    MM      MM MM    .M9  M `Mb d' MM        MM    .M9     d'  YM.    MM     
+     `Mb   MM    MM      MM MMMMMMM9'  M  YM.P  MM        MMMMMMM9'    ,P   `Mb    MM     
+      MM   MM    MM      MM MM  \M\    M  `Mb'  MM        MM  \M\      d'    YM.   MM     
+      MM   MM    YM      M9 MM   \M\   M   YP   MM        MM   \M\    ,MMMMMMMMb   MM     
+L    ,M9   MM     8b    d8  MM    \M\  M   `'   MM        MM    \M\   d'      YM.  MM     
+MYMMMM9   _MM_     YMMMM9  _MM_    \M\_M_      _MM_      _MM_    \M\_dM_     _dMM__MM_    
 ```
                                     
 
@@ -18,9 +21,9 @@
 [![Language](https://img.shields.io/badge/Language-Go%20%2B%20Rust%20%2B%20JavaScript-blue)](https://github.com/dntaskmehow/STORM-RAT)
 [![Focus](https://img.shields.io/badge/Focus-Remote_Access%20%2B%20Worm%20%2B%20Exploit-orange)](https://github.com/dntaskmehow/STORM-RAT)
 
-</div>
 
-## WEAPONIZED MALWARE SUITE (GO, RUST, JAVASCRIPT)
+  ## WEAPONIZED MALWARE SUITE (GO, RUST, JAVASCRIPT)
+</div>
 
 ### A. GO (Golang) - Remote Access Trojan (RAT) with Rootkit Capabilities
 
